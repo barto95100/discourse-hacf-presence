@@ -1,0 +1,15 @@
+plugins:
+  hacf_presence_enabled:
+    default: false
+    client: false
+  hacf_presence_source_url:
+    default: "https://n8n-new.hacf.fr/webhook/hacf-presence"
+    client: false
+  hacf_presence_cache_seconds:
+    default: 60
+    min: 10
+    max: 600
+    client: false
+  hacf_presence_login_required:
+    default: true
+    client: false

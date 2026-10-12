@@ -1,0 +1,6 @@
+en:
+  site_settings:
+    hacf_presence_enabled: "Enable HACF online presence (/hacf-presence endpoint)"
+    hacf_presence_source_url: "URL of the n8n webhook providing presence data"
+    hacf_presence_cache_seconds: "Cache duration, in seconds"
+    hacf_presence_login_required: "Restrict presence to logged-in members"

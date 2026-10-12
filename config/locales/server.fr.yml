@@ -1,0 +1,6 @@
+fr:
+  site_settings:
+    hacf_presence_enabled: "Activer la présence en ligne HACF (adresse /hacf-presence)"
+    hacf_presence_source_url: "Adresse du webhook n8n qui fournit les données de présence"
+    hacf_presence_cache_seconds: "Durée du cache, en secondes"
+    hacf_presence_login_required: "Réserver la présence aux membres connectés"
