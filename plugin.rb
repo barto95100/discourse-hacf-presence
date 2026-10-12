@@ -14,6 +14,8 @@ end
 
 require_relative "lib/hacf_presence/engine"
 
+register_asset "stylesheets/hacf-presence.scss"
+
 after_initialize do
   require_relative "app/controllers/hacf_presence/presence_controller"
 end
